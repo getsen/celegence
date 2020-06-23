@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "question": "Who Won the world cup in 2011",
+    "options": ["India", "England", "Australia", "None of the above"],
+    "answer": "India"
+  },
+  {
+    "id": 2,
+    "question": "What is the Current Year",
+    "options": ["2019", "2020", "2021", "2022"],
+    "answer": "2020"
+  },
+  {
+    "id": 3,
+    "question": "What is the Current Month",
+    "options": ["July", "May", "June", "August"],
+    "answer": "June"
+  },
+  {
+    "id": 4,
+    "question": "Who Won the world cup in 2019",
+    "options": ["India", "England", "Australia", "None of the above"],
+    "answer": "England"
+  }
+]

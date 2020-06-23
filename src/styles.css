@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btnGroup {
+  margin-top: 10px;
+}
+
+.btnGroup span {
+  padding: 10px;
+}
+
+.options {
+  text-align: left;
+  margin-left: 40%;
+}
