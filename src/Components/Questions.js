@@ -87,7 +87,7 @@ const Questions = () => {
             </button>
           </span>
           <span>
-            <button type="button" onClick={showAnswer}>
+            <button className="showAnsBtn" type="button" onClick={showAnswer}>
               Show Answer
             </button>
           </span>
